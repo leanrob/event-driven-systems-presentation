@@ -21,7 +21,7 @@ To acheive this, DDD, has 3 major concepts to consider.
 
 Context is not a software idea, but rather the context in which word and statements live.
 
-Domain refers to a sphere of knowledge and activity. Our domain is Amazon.
+The Domain refers to a sphere of knowledge and activity. Our domain is Amazon.
 
 The model used is an abstraction of real-world aspects of the domain that are used to solve problems in the domain
 > Ex. We have the idea of a listing in Amazon, that is part of the model
